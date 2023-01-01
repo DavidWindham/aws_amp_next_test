@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <h1 className="title">
         Link <Link href="/folder/other-page">this page!</Link>
-        A <a href="/folder/other-page">this page!</a>
+        {/* A <a href="/folder/other-page">this page!</a> */}
       </h1>
 
     </div>
