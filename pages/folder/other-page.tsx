@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 import TestComponent from "../../components/test_component";
 import Link from 'next/link';
 
